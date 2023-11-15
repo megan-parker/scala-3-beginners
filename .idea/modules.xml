@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-3-beginners.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-3-beginners.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-3-beginners-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-3-beginners-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/shopify.iml" filepath="$PROJECT_DIR$/../.idea/modules/shopify.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/shopify-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/shopify-build.iml" />
     </modules>
   </component>
 </project>
